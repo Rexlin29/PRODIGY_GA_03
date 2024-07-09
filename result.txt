@@ -1,0 +1,9 @@
+Generated Word Sequence:
+alice was beginning to get very tired of sitting by her sister on the bank and of having nothing to do once or twice she had peeped into the book her sister was reading but it had no pictures or conversations in it and what is the use of a book thought alice
+
+Generated Character Sequence:
+alice without pictures or the use of getting but it and pictures or conversation so she was reading in it and pictures or the had no picking the daisychain would for the hot day made her on the book thout
+
+Probability of 'to' following ('alice', 'was', 'beginning'): 1.0
+
+Probability of 'e' following ('a', 'l', 'i', 'c'): 1.0
